@@ -1,0 +1,14 @@
+.venv/
+.env
+config.json
+storage_state.json
+logs/
+data/
+screenshots/
+Resume/*.pdf
+Resume/*.doc
+Resume/*.docx
+__pycache__/
+dist/
+Thumbs.db
+desktop.ini

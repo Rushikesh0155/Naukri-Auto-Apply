@@ -1,0 +1,9 @@
+Put your resume PDF in this folder.
+
+That is the file Naukri Autopilot re-uploads to your profile on every run, so it
+should be the same resume you want recruiters to see.
+
+One PDF is enough. If you keep more than one here, pick which to use on the
+Configuration page in the dashboard.
+
+You can delete this text file.

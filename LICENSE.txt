@@ -1,0 +1,31 @@
+Naukri Autopilot for Windows
+Copyright (c) 2026 Swagat Shandilya
+
+PERSONAL USE LICENCE
+
+You may use this software on machines you own, for your own Naukri account,
+and modify it for your own use.
+
+You may not resell, redistribute, sublicense or publish this software or any
+substantial part of it.
+
+NO WARRANTY
+
+This software is provided "as is", without warranty of any kind, express or
+implied. The author is not liable for any claim, damages or other liability
+arising from its use.
+
+YOUR RESPONSIBILITY
+
+This tool automates actions on a website you do not own. Naukri's terms of
+service govern your use of their platform, and automated access may not be
+permitted under them. You use this tool on your own account, at your own risk,
+and you are responsible for how you use it.
+
+It is built for keeping a single profile current at a sensible interval. Do not
+use it against accounts that are not yours.
+
+THIRD-PARTY COMPONENTS
+
+Playwright (Apache Licence 2.0) and python-dotenv (BSD 3-Clause) are downloaded
+during setup and remain under their own licences.
