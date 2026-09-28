@@ -214,7 +214,3 @@ If you share this folder with anyone, leave out `storage_state.json`. It is
 your logged-in Naukri session.
 
 ---
-
-Built by Swagat Shandilya · [swagatshandilya.vercel.app](https://swagatshandilya.vercel.app/)
-
-Sold as-is, for use on your own Naukri account. See LICENSE.
